@@ -1,0 +1,2 @@
+class RouteStatus < ApplicationRecord
+end

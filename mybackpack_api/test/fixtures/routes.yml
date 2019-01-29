@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyText
+  startDate: 2019-01-29
+  endDate: 2019-01-29
+  duration: 1
+  participatesCount: 1
+  routeLength: 1.5
+  publication: 
+
+two:
+  title: MyString
+  description: MyText
+  startDate: 2019-01-29
+  endDate: 2019-01-29
+  duration: 1
+  participatesCount: 1
+  routeLength: 1.5
+  publication: 

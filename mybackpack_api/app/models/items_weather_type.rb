@@ -1,0 +1,2 @@
+class ItemsWeatherType < ApplicationRecord
+end

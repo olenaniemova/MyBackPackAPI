@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  elevation: 
+  coordinateN: 
+  coordinateE: 
+  description: MyText
+
+two:
+  title: MyString
+  elevation: 
+  coordinateN: 
+  coordinateE: 
+  description: MyText

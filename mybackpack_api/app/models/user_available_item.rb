@@ -1,0 +1,2 @@
+class UserAvailableItem < ApplicationRecord
+end

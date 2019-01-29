@@ -1,0 +1,2 @@
+class PlaceLength < ApplicationRecord
+end

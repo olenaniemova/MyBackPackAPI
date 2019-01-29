@@ -1,0 +1,37 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  email: MyString
+  firstName: MyString
+  lastName: MyString
+  weight: 1
+  height: 1.5
+  age: 1
+  birthday: 2019-01-29
+  gender: 
+  reiteng: 1
+  photo: MyString
+  description: MyText
+  phone: MyString
+  bpWaightSummer: 1
+  bpWeightWinter: 1
+  bpVolumeSummer: 1
+  bpVolumeWinter: 1
+
+two:
+  email: MyString
+  firstName: MyString
+  lastName: MyString
+  weight: 1
+  height: 1.5
+  age: 1
+  birthday: 2019-01-29
+  gender: 
+  reiteng: 1
+  photo: MyString
+  description: MyText
+  phone: MyString
+  bpWaightSummer: 1
+  bpWeightWinter: 1
+  bpVolumeSummer: 1
+  bpVolumeWinter: 1
